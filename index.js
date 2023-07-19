@@ -1,0 +1,2 @@
+"use strict";
+console.log("HELLO MY NAME IS HAMZA SAJJAD FROM BATCH 47 LAHORE");
